@@ -5,9 +5,15 @@
 
 body {
 	background: coral;
+	font-size:  18px;
+	line-height: 1.4;
 	color:  #fff;
 }
 
 h1 {
 	font-size: 3em;
+}
+
+p {
+	background: red;
 }
