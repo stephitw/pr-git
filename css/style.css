@@ -1,4 +1,13 @@
+* {
+	margin:  0;
+	padding:  0;
+}
+
 body {
 	background: coral;
 	color:  #fff;
+}
+
+h1 {
+	font-size: 3em;
 }
